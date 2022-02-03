@@ -7,7 +7,7 @@ Take Home Assignment Document - https://docs.google.com/document/d/1CZuFu2OPGcDN
 Item | Expected Soltuion | Max Points 
 --- | --- | --- 
 UI/UX | UI should be intuitive, without any obvious bugs. Extra points can be given for exceptional UI. | 30 
-Code Quality | Is the code of good quality? Is the logic seperated out into distinct files? Are variable names clear? Can it be unit tested? How do the handle default conditions? (i.e username not configured)| 30
+Code Quality | Is the code of good quality? Is the logic seperated out into distinct files? Are variable names clear? Can it be unit tested? How does it handle default conditions? (i.e username not configured)| 30
 Submission Description | Was the description in the submission thorough? If it were a PR description would it be particularly useful? | 20
 Ontime, submitted well | Was the assignment submitted on time? Was it submitted as per the guidelines? | 20
 
