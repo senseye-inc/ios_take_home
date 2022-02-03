@@ -14,6 +14,7 @@
 		00DA11DB27AB723E00FC3637 /* ios_take_homeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA11DA27AB723E00FC3637 /* ios_take_homeTests.swift */; };
 		00DA11E527AB723E00FC3637 /* ios_take_homeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA11E427AB723E00FC3637 /* ios_take_homeUITests.swift */; };
 		00DA11E727AB723E00FC3637 /* ios_take_homeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA11E627AB723E00FC3637 /* ios_take_homeUITestsLaunchTests.swift */; };
+		00DA11F427AB863300FC3637 /* FeatureFlagService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00DA11F327AB863300FC3637 /* FeatureFlagService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		00DA11E027AB723E00FC3637 /* ios_take_homeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ios_take_homeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00DA11E427AB723E00FC3637 /* ios_take_homeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_take_homeUITests.swift; sourceTree = "<group>"; };
 		00DA11E627AB723E00FC3637 /* ios_take_homeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_take_homeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		00DA11F327AB863300FC3637 /* FeatureFlagService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureFlagService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				00DA11CB27AB723B00FC3637 /* ContentView.swift */,
 				00DA11CD27AB723D00FC3637 /* Assets.xcassets */,
 				00DA11CF27AB723D00FC3637 /* Preview Content */,
+				00DA11F327AB863300FC3637 /* FeatureFlagService.swift */,
 			);
 			path = ios_take_home;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00DA11CC27AB723B00FC3637 /* ContentView.swift in Sources */,
+				00DA11F427AB863300FC3637 /* FeatureFlagService.swift in Sources */,
 				00DA11CA27AB723B00FC3637 /* ios_take_homeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
