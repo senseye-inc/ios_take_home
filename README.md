@@ -11,5 +11,5 @@ Code Quality | Is the code of good quality? Is the logic seperated out into dist
 Submission Description | Was the description in the submission thorough? If it were a PR description would it be particularly useful? | 20
 Ontime, submitted well | Was the assignment submitted on time? Was it submitted as per the guidelines? | 20
 
-Sample screenshot:
+
 <img width="347" alt="Screen Shot 2022-02-02 at 9 41 30 PM" src="https://user-images.githubusercontent.com/5391849/152287741-3677cf20-91c1-4dbb-8db6-f2be7f30560f.png">
