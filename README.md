@@ -2,7 +2,7 @@
 
 This repo is a sample of the iOS Take Home Assignment 
 
-[Take Home Assignment Document](https://github.com/senseye-inc/ios_take_home/blob/main/Senseye%20-%20iOS%20Developer%20Take%20Home%20Coding%20Task.pdf)
+[Take Home Assignment Document](https://github.com/senseye-inc/ios_take_home/blob/update-take-home-doc/Senseye%20-%20iOS%20Developer%20Take%20Home%20Coding%20Task.pdf)
 
 Item | Expected Soltuion | Max Points 
 --- | --- | --- 
